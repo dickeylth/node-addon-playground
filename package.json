@@ -1,0 +1,19 @@
+{
+  "name": "addon-playground",
+  "version": "1.0.0",
+  "description": "node addon learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dickeylth/node-addon-playground.git"
+  },
+  "author": "dickeylth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dickeylth/node-addon-playground/issues"
+  },
+  "homepage": "https://github.com/dickeylth/node-addon-playground#readme"
+}
