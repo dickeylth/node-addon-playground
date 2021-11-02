@@ -1,0 +1,19 @@
+{
+  "name": "4-napi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "prebuildify --napi --strip",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "gypfile": true,
+  "devDependencies": {
+    "prebuildify": "^4.2.1"
+  },
+  "dependencies": {
+    "node-gyp-build": "^4.3.0"
+  }
+}
